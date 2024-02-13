@@ -7,3 +7,4 @@ Students:
 4. krishna chaitanya
 5. Prashant kumar
 6. Nishant kumar
+7. Niraj kumar
