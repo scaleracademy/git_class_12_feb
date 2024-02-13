@@ -6,3 +6,4 @@ Students:
 3. Bharath Vepanjeri
 4. krishna chaitanya
 5. Prashant kumar
+6. Nishant kumar
