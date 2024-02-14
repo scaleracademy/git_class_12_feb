@@ -6,4 +6,4 @@ Students:
 2. Asif Iqbal
 3. Bharath Vepanjeri
 4. krishna chaitanya
-%. Kurshith Alam
+5. Kurshith Alam
