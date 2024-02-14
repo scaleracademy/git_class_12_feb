@@ -1,4 +1,3 @@
-# git_class_12_feb
 
 Name of the Instructor: Naman Bhalla
 Students:
@@ -6,3 +5,5 @@ Students:
 2. Asif Iqbal
 3. Bharath Vepanjeri
 4. krishna chaitanya
+5. Prashant kumar
+6. Nishant kumar
