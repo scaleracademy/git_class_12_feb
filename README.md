@@ -6,4 +6,4 @@ Students:
 2. Asif Iqbal
 3. Bharath Vepanjeri
 4. krishna chaitanya
-5. Asif Iqbal(Its me)
+5. Asif Iqbal(It's me)
