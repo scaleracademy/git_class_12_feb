@@ -7,3 +7,5 @@ Students:
 3. Bharath Vepanjeri
 4. krishna chaitanya
 5. Danerys Targaryen
+6. The Extermis
+7. Hemil Fichadia
