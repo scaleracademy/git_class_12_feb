@@ -6,3 +6,4 @@ Students:
 2. Asif Iqbal
 3. Bharath Vepanjeri
 4. krishna chaitanya
+5. Atul Kumar Jha (The Git class taught by Naman Bhalla is AWESOME!)
